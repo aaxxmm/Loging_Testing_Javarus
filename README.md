@@ -16,6 +16,26 @@
 
 ## 📁 Структура проекта
 
+    Loging_Testing_Javarus/
+    ├── .gitignore
+    ├── .gitignore
+    ├── README.md
+    ├── pom.xml
+    ├── src/
+    │   ├── main/
+    │   │   ├── java/
+    │   │   │   ├── Horse.java
+    │   │   │   ├── Hippodrome.java
+    │   │   │   └── Main.java
+    │   │   └── resources/
+    │   │       └── log4j2.xml
+    │   └── test/
+    │       └── java/
+    │           ├── HorseTest.java
+    │           ├── HippodromeTest.java
+    │           └── MainTest.java
+    └── logs/
+    └── hippodrome.log
 
 ## 🛠️ Технологии
 
